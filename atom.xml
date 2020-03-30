@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuckjimu.github.io</id>
     <title>积木盒子难友之家</title>
-    <updated>2020-03-30T05:46:15.125Z</updated>
+    <updated>2020-03-30T05:48:58.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuckjimu.github.io"/>
     <link rel="self" href="https://fuckjimu.github.io/atom.xml"/>
@@ -43,6 +43,7 @@
         <content type="html"><![CDATA[<p>想必大家都知道我是谁，我就不过多赘述了</p>
 <p>这里存在的意义，可能就是一个简单的信息公告渠道，我本人的一言堂！</p>
 <p>希望各位难友，除了刷群以外，可以到这里了解最新的动态。</p>
+<p>时效性可能差一些，没有微信时效性高，但是遇到紧急重要的事情，我会竭尽全力在这里更新发布</p>
 <p>然后，这里有可能烂尾，有可能我更着更着说着说着就没音儿了，并不见得是事件完整结束，也不见得不是。只能说一句祝好，祝你，祝大家，也祝我自己。</p>
 <p>多说一些题外话</p>
 <p>为什么我选择在这里搭建这个服务而不是选择在国内找个高速的服务器再绑定个域名呢？或者是干脆做一个公众号或者是其他UGC？</p>
